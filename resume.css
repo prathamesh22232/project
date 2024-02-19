@@ -39,15 +39,13 @@ footer{
 }
 
 .vision{
-    position: absolute;
-    left: 20px;
+   
 }
 
-.smedia{
-    position:static;
-    right: 15px;
-    text-align: end;
-    padding: 5px;
-  
-   
+.endingWeb{
+    display:flex;
+    justify-content: space-around;
+     text-align: center;
+     position: relative;
+     top: 75px;
 }
