@@ -1,2 +1,2 @@
 # project
-self done beautiful projects
+self done projects
